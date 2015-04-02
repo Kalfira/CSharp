@@ -1,0 +1,5 @@
+c:\users\administrator\documents\visual studio 2013\Projects\SimpleAddition\SimpleAddition\bin\Debug\SimpleAddition.exe.config
+c:\users\administrator\documents\visual studio 2013\Projects\SimpleAddition\SimpleAddition\bin\Debug\SimpleAddition.exe
+c:\users\administrator\documents\visual studio 2013\Projects\SimpleAddition\SimpleAddition\bin\Debug\SimpleAddition.pdb
+c:\users\administrator\documents\visual studio 2013\Projects\SimpleAddition\SimpleAddition\obj\Debug\SimpleAddition.exe
+c:\users\administrator\documents\visual studio 2013\Projects\SimpleAddition\SimpleAddition\obj\Debug\SimpleAddition.pdb

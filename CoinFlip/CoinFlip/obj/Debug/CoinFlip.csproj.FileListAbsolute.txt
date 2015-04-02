@@ -1,0 +1,6 @@
+c:\users\administrator\documents\visual studio 2013\Projects\CoinFlip\CoinFlip\bin\Debug\CoinFlip.exe.config
+c:\users\administrator\documents\visual studio 2013\Projects\CoinFlip\CoinFlip\bin\Debug\CoinFlip.exe
+c:\users\administrator\documents\visual studio 2013\Projects\CoinFlip\CoinFlip\bin\Debug\CoinFlip.pdb
+c:\users\administrator\documents\visual studio 2013\Projects\CoinFlip\CoinFlip\obj\Debug\CoinFlip.csprojResolveAssemblyReference.cache
+c:\users\administrator\documents\visual studio 2013\Projects\CoinFlip\CoinFlip\obj\Debug\CoinFlip.exe
+c:\users\administrator\documents\visual studio 2013\Projects\CoinFlip\CoinFlip\obj\Debug\CoinFlip.pdb

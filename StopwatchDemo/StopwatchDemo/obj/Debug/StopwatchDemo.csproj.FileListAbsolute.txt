@@ -1,0 +1,5 @@
+c:\users\administrator\documents\visual studio 2013\Projects\StopwatchDemo\StopwatchDemo\bin\Debug\StopwatchDemo.exe.config
+c:\users\administrator\documents\visual studio 2013\Projects\StopwatchDemo\StopwatchDemo\bin\Debug\StopwatchDemo.exe
+c:\users\administrator\documents\visual studio 2013\Projects\StopwatchDemo\StopwatchDemo\bin\Debug\StopwatchDemo.pdb
+c:\users\administrator\documents\visual studio 2013\Projects\StopwatchDemo\StopwatchDemo\obj\Debug\StopwatchDemo.exe
+c:\users\administrator\documents\visual studio 2013\Projects\StopwatchDemo\StopwatchDemo\obj\Debug\StopwatchDemo.pdb

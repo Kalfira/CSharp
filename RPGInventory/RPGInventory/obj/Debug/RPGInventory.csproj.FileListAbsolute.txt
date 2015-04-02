@@ -1,0 +1,6 @@
+c:\users\administrator\documents\visual studio 2013\Projects\RPGInventory\RPGInventory\bin\Debug\RPGInventory.exe.config
+c:\users\administrator\documents\visual studio 2013\Projects\RPGInventory\RPGInventory\obj\Debug\RPGInventory.csprojResolveAssemblyReference.cache
+c:\users\administrator\documents\visual studio 2013\Projects\RPGInventory\RPGInventory\bin\Debug\RPGInventory.exe
+c:\users\administrator\documents\visual studio 2013\Projects\RPGInventory\RPGInventory\bin\Debug\RPGInventory.pdb
+c:\users\administrator\documents\visual studio 2013\Projects\RPGInventory\RPGInventory\obj\Debug\RPGInventory.exe
+c:\users\administrator\documents\visual studio 2013\Projects\RPGInventory\RPGInventory\obj\Debug\RPGInventory.pdb

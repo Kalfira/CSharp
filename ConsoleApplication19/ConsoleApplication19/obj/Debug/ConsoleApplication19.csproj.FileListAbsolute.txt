@@ -1,0 +1,6 @@
+c:\users\administrator\documents\visual studio 2013\Projects\ConsoleApplication19\ConsoleApplication19\bin\Debug\ConsoleApplication19.exe.config
+c:\users\administrator\documents\visual studio 2013\Projects\ConsoleApplication19\ConsoleApplication19\bin\Debug\ConsoleApplication19.exe
+c:\users\administrator\documents\visual studio 2013\Projects\ConsoleApplication19\ConsoleApplication19\bin\Debug\ConsoleApplication19.pdb
+c:\users\administrator\documents\visual studio 2013\Projects\ConsoleApplication19\ConsoleApplication19\obj\Debug\ConsoleApplication19.csprojResolveAssemblyReference.cache
+c:\users\administrator\documents\visual studio 2013\Projects\ConsoleApplication19\ConsoleApplication19\obj\Debug\ConsoleApplication19.exe
+c:\users\administrator\documents\visual studio 2013\Projects\ConsoleApplication19\ConsoleApplication19\obj\Debug\ConsoleApplication19.pdb

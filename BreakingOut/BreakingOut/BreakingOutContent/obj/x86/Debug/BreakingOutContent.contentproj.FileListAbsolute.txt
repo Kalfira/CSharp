@@ -1,0 +1,2 @@
+c:\users\jamie\documents\visual studio 2010\Projects\BreakingOut\BreakingOut\BreakingOutContent\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\BreakingOut\BreakingOut\BreakingOutContent\obj\x86\Debug\BreakingOutContent.contentprojResolveAssemblyReference.cache

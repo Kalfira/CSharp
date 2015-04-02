@@ -1,0 +1,6 @@
+c:\users\administrator\documents\visual studio 2013\Projects\LoggingInterface\LoggingInterface\bin\Debug\LoggingInterface.exe.config
+c:\users\administrator\documents\visual studio 2013\Projects\LoggingInterface\LoggingInterface\bin\Debug\LoggingInterface.exe
+c:\users\administrator\documents\visual studio 2013\Projects\LoggingInterface\LoggingInterface\bin\Debug\LoggingInterface.pdb
+c:\users\administrator\documents\visual studio 2013\Projects\LoggingInterface\LoggingInterface\obj\Debug\LoggingInterface.csprojResolveAssemblyReference.cache
+c:\users\administrator\documents\visual studio 2013\Projects\LoggingInterface\LoggingInterface\obj\Debug\LoggingInterface.exe
+c:\users\administrator\documents\visual studio 2013\Projects\LoggingInterface\LoggingInterface\obj\Debug\LoggingInterface.pdb

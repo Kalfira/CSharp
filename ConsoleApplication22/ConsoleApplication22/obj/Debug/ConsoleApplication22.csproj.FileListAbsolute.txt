@@ -1,0 +1,6 @@
+c:\users\administrator\documents\visual studio 2013\Projects\ConsoleApplication22\ConsoleApplication22\bin\Debug\ConsoleApplication22.exe.config
+c:\users\administrator\documents\visual studio 2013\Projects\ConsoleApplication22\ConsoleApplication22\obj\Debug\ConsoleApplication22.csprojResolveAssemblyReference.cache
+c:\users\administrator\documents\visual studio 2013\Projects\ConsoleApplication22\ConsoleApplication22\bin\Debug\ConsoleApplication22.exe
+c:\users\administrator\documents\visual studio 2013\Projects\ConsoleApplication22\ConsoleApplication22\bin\Debug\ConsoleApplication22.pdb
+c:\users\administrator\documents\visual studio 2013\Projects\ConsoleApplication22\ConsoleApplication22\obj\Debug\ConsoleApplication22.exe
+c:\users\administrator\documents\visual studio 2013\Projects\ConsoleApplication22\ConsoleApplication22\obj\Debug\ConsoleApplication22.pdb

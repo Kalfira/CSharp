@@ -1,0 +1,5 @@
+c:\users\administrator\documents\visual studio 2013\Projects\ConsoleApplication17\ConsoleApplication17\bin\Debug\ConsoleApplication17.exe.config
+c:\users\administrator\documents\visual studio 2013\Projects\ConsoleApplication17\ConsoleApplication17\bin\Debug\ConsoleApplication17.exe
+c:\users\administrator\documents\visual studio 2013\Projects\ConsoleApplication17\ConsoleApplication17\bin\Debug\ConsoleApplication17.pdb
+c:\users\administrator\documents\visual studio 2013\Projects\ConsoleApplication17\ConsoleApplication17\obj\Debug\ConsoleApplication17.exe
+c:\users\administrator\documents\visual studio 2013\Projects\ConsoleApplication17\ConsoleApplication17\obj\Debug\ConsoleApplication17.pdb

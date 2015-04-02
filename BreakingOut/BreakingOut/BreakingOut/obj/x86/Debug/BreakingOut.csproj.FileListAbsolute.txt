@@ -1,0 +1,8 @@
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\BreakingOut\BreakingOut\BreakingOut\bin\x86\Debug\Content\paddle.xnb
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\BreakingOut\BreakingOut\BreakingOut\bin\x86\Debug\Content\ball.xnb
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\BreakingOut\BreakingOut\BreakingOut\bin\x86\Debug\BreakingOut.exe
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\BreakingOut\BreakingOut\BreakingOut\bin\x86\Debug\BreakingOut.pdb
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\BreakingOut\BreakingOut\BreakingOut\obj\x86\Debug\BreakingOut.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\BreakingOut\BreakingOut\BreakingOut\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\BreakingOut\BreakingOut\BreakingOut\obj\x86\Debug\BreakingOut.exe
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\BreakingOut\BreakingOut\BreakingOut\obj\x86\Debug\BreakingOut.pdb
